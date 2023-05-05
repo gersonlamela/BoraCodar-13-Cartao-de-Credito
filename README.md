@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="BoraCodar-13-Cartão de credito" src=".github/assets/capa.png" />
+  <img alt="BoraCodar-13-Cartão de credito" src=".github/assets/Capa.png" />
 </p>
 
 ## 💻 Projeto
